@@ -1,30 +1,30 @@
 {
     "projects": [
         {
-			"id":1,
+            "id": 1,
             "title": "COVID-19-Tracker",
             "imgUrl": "https://i.ibb.co/4S9JM89/covid19tracker.png",
             "framework": "REACT",
             "link": "https://covid19trackersami.web.app/"
         },
         {
-			"id":2,
+            "id": 2,
             "title": "Netflix Clone",
-            "imgUrl": "https://i.ibb.co/4S9JM89/covid19tracker.png",
+            "imgUrl": "https://i.ibb.co/J32FTm2/netflix-clone.png",
             "framework": "REACT",
             "link": "https://netflixbysami.web.app/"
         }
     ],
     "web": [
         {
-			"id":1,
+            "id": 1,
             "title": "Hotelsvista",
             "imgUrl": "https://i.ibb.co/3zd5vD8/hotelsvista.png",
             "framework": "WordPress",
             "link": "https://Hotelsvista.com/"
         },
         {
-			"id":2,
+            "id": 2,
             "title": "PizzaQdilla",
             "imgUrl": "https://i.ibb.co/3frsXGk/pizzaqdilla.png",
             "framework": "WordPress",

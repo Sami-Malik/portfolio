@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "title": "COVID-19-Tracker",
+            "imgUrl": "https://i.ibb.co/4S9JM89/covid19tracker.png",
+            "framework": "REACT",
+            "link": "https://covid19trackersami.web.app/"
+        },
+        {
+            "title": "Netflix Clone",
+            "imgUrl": "https://i.ibb.co/4S9JM89/covid19tracker.png",
+            "framework": "REACT",
+            "link": "https://netflixbysami.web.app/"
+        }
+    ]
+}

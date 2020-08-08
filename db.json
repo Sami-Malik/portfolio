@@ -8,9 +8,23 @@
         },
         {
             "title": "Netflix Clone",
-            "imgUrl": "https://i.ibb.co/dLZjGMj/netflix-clone.png",
+            "imgUrl": "https://i.ibb.co/4S9JM89/covid19tracker.png",
             "framework": "REACT",
             "link": "https://netflixbysami.web.app/"
+        }
+    ],
+    "web": [
+        {
+            "title": "Hotelsvista",
+            "imgUrl": "https://i.ibb.co/3zd5vD8/hotelsvista.png",
+            "framework": "WordPress",
+            "link": "https://Hotelsvista.com/"
+        },
+        {
+            "title": "PizzaQdilla",
+            "imgUrl": "https://i.ibb.co/3frsXGk/pizzaqdilla.png",
+            "framework": "WordPress",
+            "link": "https://pizzaqdilla.com/"
         }
     ]
 }

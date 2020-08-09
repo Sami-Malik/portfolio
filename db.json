@@ -29,6 +29,20 @@
             "imgUrl": "https://i.ibb.co/q0rM2Ln/pizzaqdilla.png",
             "framework": "WordPress",
             "link": "https://pizzaqdilla.com/"
+        },
+        {
+            "id": 3,
+            "title": "Abrand",
+            "imgUrl": "https://i.ibb.co/61gGX51/abrand.png",
+            "framework": "HTML & CSS",
+            "link": "https://abrandeurope.com/"
+        },
+        {
+            "id": 4,
+            "title": "StagersLifestyle",
+            "imgUrl": "https://i.ibb.co/8zWPf2T/stagerslifestyle.png",
+            "framework": "WordPress",
+            "link": "https://stagerslifestyle.com/"
         }
     ]
 }

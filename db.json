@@ -20,6 +20,13 @@
             "imgUrl": "https://i.ibb.co/4t1ZM2n/youtube-clone.png",
             "framework": "REACT",
             "link": "https://ytbysami.web.app/"
+        },
+        {
+            "id": 4,
+            "title": "YouTube UI Clone",
+            "imgUrl": "https://i.ibb.co/4t1ZM2n/youtube-clone.png",
+            "framework": "REACT",
+            "link": "https://ytbysami.web.app/"
         }
     ],
     "web": [
